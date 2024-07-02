@@ -1,0 +1,4 @@
+required_score 5.0
+report_safe 0
+rewrite_header Subject *****SPAM*****
+trusted_networks 192.168.0.0/24
